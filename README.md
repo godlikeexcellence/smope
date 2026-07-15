@@ -14,6 +14,28 @@ A *frown* often involves the eyebrows and forehead. A *pout* involves protruding
 
 None of those words precisely describes the simple physical action of turning the corners of the mouth downward.
 
+## Evidence of the lexical gap
+
+The proposal arose after examining common English vocabulary and discussions of facial expressions.
+
+Existing terms include:
+
+* smile
+* frown
+* pout
+* grimace
+* sneer
+* smirk
+* scowl
+
+Each denotes either:
+
+* a broader facial expression,
+* a particular emotion,
+* or a different mouth configuration.
+
+None appears to refer exclusively to the downward curvature of the mouth corners.
+
 This repository proposes a word for that missing concept:
 
 # **smope**
@@ -38,6 +60,23 @@ To turn the corners of the mouth downward, without necessarily frowning, pouting
 > He smoped sympathetically.
 
 > She did not frown; she simply smoped.
+
+## Dictionary entry
+
+**smope**
+/smoʊp/
+
+**noun**
+
+1. The downward curvature of the corners of the mouth.
+
+**verb**
+
+1. To turn the corners of the mouth downward.
+
+**Example:**
+
+She smoped sympathetically.
 
 ## Why not “frown”?
 
