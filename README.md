@@ -64,14 +64,28 @@ It also feels like a word that could already have existed.
 
 ## Related term: downsmile
 
-**Downsmile** is proposed as a transparent alternative or descriptive synonym.
+**Downsmile** is proposed here as a transparent alternative or descriptive synonym, and—like **smope**—is first formally defined and claimed in this repository.
 
 > She gave a small downsmile.
 
-Possible distinction:
+### Conceptual distinction
 
-* **downsmile** — the descriptive or technical term;
-* **smope** — the compact everyday word.
+* **downsmile** *(technical, transparent)*
+* **smope** *(everyday, lexicalized)*
+
+Exactly how we have:
+
+* automobile → car
+* photograph → photo
+* refrigerator → fridge
+
+### Definitions
+
+**downsmile** *(noun, verb)*
+A downward curvature of the corners of the mouth, irrespective of emotion. The term is purely descriptive and refers only to the geometry of the mouth, without implying eyebrow movement, lip protrusion, or any specific emotional state.
+
+**smope** *(noun, verb)*
+A colloquial term for a downsmile; the compact, everyday lexical form of the same concept.
 
 ## Examples
 
@@ -102,9 +116,9 @@ Possible distinction:
 
 **Smope is a proposed neologism.**
 
-This repository does not claim that no comparable word has ever existed in any of the world’s languages. It records a proposal for a concise English word filling an apparent lexical gap.
+This repository does not claim that no comparable word has ever existed in any of the world’s languages. It records a proposal for concise English words filling an apparent lexical gap.
 
-The proposal was publicly documented on **July 15, 2026**.
+Both **smope** and **downsmile** are first formally proposed and documented here in **2026**.
 
 ## How words become real
 
