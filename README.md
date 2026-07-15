@@ -2,6 +2,8 @@
 
 ## A proposed word for the mouth-only opposite of a smile
 
+![Smile vs Smope](images/smile-vs-smope.svg)
+
 English has a simple word for this:
 
 🙂 **smile**
